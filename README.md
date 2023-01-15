@@ -7,4 +7,4 @@ a aarch64 JVM)
 
 ### License
 
-MIT © 2022 Caoimhe Byrne
+MIT © 2023 Caoimhe Byrne

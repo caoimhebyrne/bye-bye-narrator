@@ -9,7 +9,6 @@ import org.spongepowered.asm.mixin.Overwrite;
 public interface NarratorMixin {
     /**
      * @reason To remove the narrator from the game
-     * @author Conor Byrne
      */
     @Overwrite
     static Narrator getNarrator() {
