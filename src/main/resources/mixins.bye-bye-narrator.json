@@ -1,8 +1,0 @@
-{
-    "minVersion": "0.8",
-    "compatibilityLevel": "JAVA_8",
-    "package": "dev.cbyrne.byebyenarrator.mixins",
-    "client": [
-        "NarratorMixin"
-    ]
-}
